@@ -3,7 +3,7 @@ using namespace std;
 
 //goto
 //如果标记的名称存在，执行到goto语句时，会跳转到标记的位置
-
+//goto 标记; 标记:
 int main(){
 
     cout << "1" << endl;

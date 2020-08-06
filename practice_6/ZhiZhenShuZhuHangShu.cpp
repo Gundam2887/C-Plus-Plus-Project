@@ -3,6 +3,7 @@ using namespace std;
 
 //封装一个函数，利用冒泡排序，实现对模型数组的升序排序
 //int arr[] = {4,3,9,6,1,5,2,8,7}
+//利用指针修改实参，以达到可以在主函数输出
 void bubbleSort(int * arr , int lenght){
 
     for (int i = 0; i < lenght-1; i++)

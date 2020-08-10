@@ -1,8 +1,8 @@
 #include<iostream>
 using namespace std;
 
-//å¸¸é‡çš„å®šä¹‰æ–¹å¼
-//1ã€#define å®å¸¸é‡
+//³£Á¿µÄ¶¨Òå·½Ê½
+//1¡¢#define ºê³£Á¿
 #define Day 7
 
 
@@ -11,7 +11,7 @@ int main(){
 
     cout <<Day<<endl;
 
-//2ã€constä¿®é¥°çš„å˜é‡
+//2¡¢constĞŞÊÎµÄ±äÁ¿
     const int month = 12;
 
     cout <<month<<endl;

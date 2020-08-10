@@ -2,9 +2,9 @@
 using namespace std;
 
 int main(){
-    //boolå ç”¨ 1å­—èŠ‚
+    //boolÕ¼ÓÃ 1×Ö½Ú
     // 0 false 1 true
-    //é 0 é å­—ç¬¦ é å­—ç¬¦ä¸² è¾“å‡ºçš†ä¸º true
+    //·Ç 0 ·Ç ×Ö·û ·Ç ×Ö·û´® Êä³ö½ÔÎª true
     bool a = true;
     cout << a <<endl;
 }

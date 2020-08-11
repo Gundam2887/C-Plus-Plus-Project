@@ -12,7 +12,7 @@ using namespace std;
 // }
 
 int& test2(){
-    static int a = 10;//静态变量，存放在全局区，全局区的数据在晨旭结束后系统释放
+    static int a = 10;//静态变量，存放在全局区，全局区的数据在程序结束后系统释放
     return a;
 }
 
